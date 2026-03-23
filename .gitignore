@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Ignore environment
+rps_env/
+
+# Ignore datasets
+Rock Paper Scissors.yolov8/
+*.zip
+
+# Ignore models
+runs/
+*.pt
