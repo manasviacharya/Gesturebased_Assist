@@ -65,7 +65,7 @@ The system combines:
 
 Add your demo GIF here:
 
-![Demo](demo.gif)
+![Demo](RPS.gif)
 
 ---
 
